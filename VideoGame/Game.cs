@@ -21,7 +21,7 @@ namespace VideoGame
             Title = title;
             Genre = genre;
             ReleaseYear = releaseYear;
-            IsAvailable = isAvailable;
+            IsAvailable = true;
             PricePerDay = pricePerDay;
         }
 
